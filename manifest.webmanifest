@@ -1,0 +1,19 @@
+{
+  "name": "Caisse Boulangerie",
+  "short_name": "Caisse",
+  "description": "Caisse offline-first pour boulangerie (Sénégal).",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#f4f1ea",
+  "theme_color": "#c8822e",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
